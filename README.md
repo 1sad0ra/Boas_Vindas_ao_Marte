@@ -3,7 +3,6 @@
 Este repositório contém um site informativo sobre o planeta Marte. O objetivo é apresentar, de forma clara e organizada, conteúdos sobre a história, geologia, missões espaciais e curiosidades relacionadas ao planeta vermelho.
 
 ## 📁 Estrutura de Pastas
-
 Site-Sobre-Marte/
 
 ├── 📄 README.md # Documentação do projeto
